@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/LizPaiva/api-rest-js.git)"
+    "url": "(https://github.com/LizPaiva/api-rest-javascript.git)"
   },
-  "author": "Lizeth Paiva",
+  "author": "Liz Paiva",
   "license": "MIT",
   "description": ""
 }
