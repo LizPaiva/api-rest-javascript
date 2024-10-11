@@ -12,7 +12,7 @@ Este proyecto es una página dinámica y funcional que muestra los ultimos estre
 - Diseño responsivo.
 
 ## Cómo usarlo
-Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://github.com/LizPaiva/api-rest-javascript.git).
+Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://lizpaiva.github.io/api-rest-javascript/).
 
 ## Instalación local
 1. Clona el repositorio:
