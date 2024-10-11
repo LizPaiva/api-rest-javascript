@@ -1,0 +1,3 @@
+[submodule "api-rest-javascript"]
+	path = api-rest-javascript
+	url = https://github.com/LizPaiva/api-rest-javascript.git
